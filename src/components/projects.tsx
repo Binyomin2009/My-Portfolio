@@ -3,6 +3,7 @@
 import { Card } from "@/components/ui/card";
 import { cn } from "@/lib/utils";
 import { Github } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 
@@ -48,7 +49,7 @@ export default function MyProjects() {
                     >
                         {/* Изображение проекта */}
                         {project.image && (
-                            <img
+                            <Image
                                 src={project.image}
                                 alt={project.name}
                                 className="w-full h-48 object-cover rounded-lg mb-4"

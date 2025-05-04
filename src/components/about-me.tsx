@@ -56,7 +56,7 @@ export default function AboutMe() {
                 <CardContent className="space-y-6 text-center text-black dark:text-gray-200">
                     <div className="space-y-4 text-sm sm:text-base leading-relaxed">
                         <p>
-                            Hi! I'm Binyomin, a passionate frontend developer focused on building modern and responsive web applications using React, Next.js, and Tailwind CSS.
+                            Hi! I m Binyomin, a passionate frontend developer focused on building modern and responsive web applications using React, Next.js, and Tailwind CSS.
                         </p>
                         <p>
                             I studied at Softclub where I created a fully functional online store using APIs, JSON-server, and reusable components. My goal is to grow into a fullstack developer and build high-quality digital products.

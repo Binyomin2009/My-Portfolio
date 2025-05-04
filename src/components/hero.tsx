@@ -16,7 +16,7 @@ const Hero = () => {
                         Welcome
                     </h2>
                     <h1 className="text-4xl md:text-6xl font-extrabold leading-tight text-gray-900 dark:text-white">
-                        I'm Yusufov Binyomin
+                        I m Yusufov Binyomin
                     </h1>
                     <p className="text-lg md:text-xl font-medium tracking-wide text-blue-600 dark:text-blue-400 uppercase">
                         Junior Front-end Developer
